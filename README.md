@@ -3,19 +3,19 @@
 ## Status do Projeto: ✔️ Concluído
 
 ## Tópicos
-🔹 [Descrição do projeto]()
+🔹 [Descrição do projeto](https://github.com/Vharkus/Triangulo_Classes#descri%C3%A7%C3%A3o-do-projeto)
 
-🔹 [Funcionalidades]()
+🔹 [Funcionalidades](https://github.com/Vharkus/Triangulo_Classes#funcionalidades-%EF%B8%8F)
 
-🔹 [Pré-requisitos]()
+🔹 [Pré-requisitos](https://github.com/Vharkus/Triangulo_Classes#pr%C3%A9-requisitos-%EF%B8%8F)
 
-🔹 [Como rodar a aplicação]()
+🔹 [Como rodar a aplicação](https://github.com/Vharkus/Triangulo_Classes#como-rodar-a-aplica%C3%A7%C3%A3o)
 
-🔹 [Linguagens, dependências e libs utilizadas]()
+🔹 [Linguagens, dependências e libs utilizadas](https://github.com/Vharkus/Triangulo_Classes#linguagens-dependencias-e-libs-utilizadas-)
 
-🔹 [Desenvolvedores/Contribuintes]()
+🔹 [Desenvolvedores/Contribuintes](https://github.com/Vharkus/Triangulo_Classes#desenvolvedorescontribuintes)
 
-🔹 [Informações Extras]()
+🔹 [Informações Extras](https://github.com/Vharkus/Triangulo_Classes#licen%C3%A7a)
 
 ## Descrição do projeto
 Por meio do uso de classes, usando este código é possível descobrir a área de um triângulo e ainda saber qual é maior.
